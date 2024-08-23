@@ -8,14 +8,14 @@ Run this command to install the libraries needed.
 ```
 !pip install -Uqq fastai icrawler
 ```
-#Data collection
+# Data collection
 We first download images from Google, these are some samples of the images.
 ![cat](https://github.com/TheLeg-end27/cat-or-dog/blob/main/readme_images/cat.png?raw=true)
 ![dog](https://github.com/TheLeg-end27/cat-or-dog/blob/main/readme_images/dog.png?raw=true)
 ![sample](https://github.com/TheLeg-end27/cat-or-dog/blob/main/readme_images/sample.png?raw=true)
-#Model training
+# Model training
 I've used google colab for the model training process, as this can require a lot of processing power. 
 ![finetune](https://github.com/TheLeg-end27/cat-or-dog/blob/main/readme_images/finetune.png?raw=true)
 ![test](https://github.com/TheLeg-end27/cat-or-dog/blob/main/readme_images/test.png?raw=true)
-#Evaluation
+# Evaluation
 With almost 100% accuracy, I was a little surprised to see how far image recognition and the latest have progressed in the past few years. Being able to easily do this would have been unthinkable a decade ago. 

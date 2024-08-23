@@ -10,12 +10,12 @@ Run this command to install the libraries needed.
 ```
 #Data collection
 We first download images from Google, these are some samples of the images.
-![cat](readme_images\cat.png)
-![dog](readme_images\dog.png)
-![sample](readme_images\sample.png)
+![cat](./readme_images\cat.png)
+![dog](./readme_images\dog.png)
+![sample](./readme_images\sample.png)
 #Model training
 I've used google colab for the model training process, as this can require a lot of processing power. 
-![finetune](readme_images\finetune.png)
-![test](readme_images\test.png)
+![finetune](./readme_images\finetune.png)
+![test](./readme_images\test.png)
 #Evaluation
 With almost 100% accuracy, I was a little surprised to see how far image recognition and the latest have progressed in the past few years. Being able to easily do this would have been unthinkable a decade ago. 
